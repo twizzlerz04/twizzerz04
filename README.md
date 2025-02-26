@@ -1,2 +1,1 @@
-# twizzerz04
-My personal repository.
+# About me
